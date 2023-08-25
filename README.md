@@ -21,6 +21,11 @@ SQL, Machine Learning, Reinforcement Learning, Deep Learning, R, Python, Bash, O
 ## 👻 Others
 
 i forgor 💀
+
+
+
+
+
 ![Logo](https://www.celebcrystal.com/wp-content/uploads/2022/02/Ernest-Khalimov-GigaChad-scaled.jpg)
 
 
