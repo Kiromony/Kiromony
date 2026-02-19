@@ -1,31 +1,25 @@
+# Simón Repolt
 
-## 🚀 About Me
-I'm an undergrad Electrical Engineering student who mainly focuses on Machine Learning topics. I'm currently working as a lab assistant at University of O'Higgins (SCoPe Lab) and University of Chile (Speech Transmission and Processing Lab). Currently with great interests in Reinforcement Learning.
+Electrical Engineer & MSc Data Science candidate at Universidad de Chile.
 
-I like to play guitar and bass. I also have a band with friends! where I play guitar.
+I design and deploy machine learning systems with focus on signal processing, speech enhancement, and large-scale text analysis.
 
-👩‍💻 I'm currently working on RL controller for Multi-Modular Converters
+## Current work
 
-🧠 I'm currently learning Reinforcement Learning, Blind Source Separation, Beamforming.
+- First author of SA-BF-BSS, a self-attention beamforming and blind source separation architecture outperforming state-of-the-art baselines while using fewer parameters in both real, static & dynamic noisy HRI environments and overlapped speaker separation tasks.
+- Developer of institutional NLP analytics platforms used by university leadership.
+- Consultant in statistical analysis of clinical datasets.
+- Independent hardware engineer focused on diagnosis and repair of electronic systems.
 
+## Areas of interest
 
-📫 You can always contact me via email!: simondavidandres@gmail.com
+- Speech processing and beamforming
+- Machine learning systems design
+- Signal processing
+- Applied statistical modeling
+- Embedded and hardware-aware ML
 
-😄 Pronouns: Giga/chad  
+## Contact
 
-
-## 🛠 Skills
-SQL, Machine Learning, Reinforcement Learning, Deep Learning, R, Python, Bash, Office and MatLab.
-
-
-## 👻 Others
-
-i forgor 💀
-
-
-
-
-
-![Logo](https://www.celebcrystal.com/wp-content/uploads/2022/02/Ernest-Khalimov-GigaChad-scaled.jpg)
-
-
+Email: simon@repolt.net  
+GitHub: github.com/Kiromony
