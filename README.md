@@ -21,5 +21,5 @@ I design and deploy machine learning systems with focus on signal processing, sp
 
 ## Contact
 
-Email: simon@repolt.net  
+Email: contact@repolt.net  
 GitHub: github.com/Kiromony
